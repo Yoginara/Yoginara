@@ -1,5 +1,5 @@
-# 💫 About Me:
-# 👋 Hai, Saya Yoginara Pratama Sitorus  <br><br>💻 Mahasiswa TI | 🚀 Explore Cloud & AI | 👟 E-commerce Sepatu Lokal Enthusiast  <br><br>---<br><br>## 🔥 Tentang Saya<br>- 🎓 NPM: **714220043**<br>- 🌱 Belajar: **Golang, MongoDB, Rust, Flutter**<br>- 🛠️ Sedang bikin: **Platform E-Commerce Sepatu Lokal**<br>- ✨ Motto: *"Error bukan akhir, tapi awal solusi."*<br><br>---
+## 💫 About Me:
+👋 Hai, Saya Yoginara Pratama Sitorus  <br><br>💻 Mahasiswa TI | 🚀 Explore Cloud & AI | 👟 E-commerce Sepatu Lokal Enthusiast  <br><br>---<br><br>## 🔥 Tentang Saya<br>- 🎓 NPM: **714220043**<br>- 🌱 Belajar: **Golang, MongoDB, Rust, Flutter**<br>- 🛠️ Sedang bikin: **Platform E-Commerce Sepatu Lokal**<br>- ✨ Motto: *"Error bukan akhir, tapi awal solusi."*<br><br>---
 
 
 ## 🌐 Socials:
